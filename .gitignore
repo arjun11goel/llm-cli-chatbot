@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Python / virtual environments
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Runtime conversation logs (keep the curated sample_conversation.json)
+chat_logs/
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
