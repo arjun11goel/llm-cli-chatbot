@@ -107,6 +107,6 @@ The project is intended for a public GitHub repository named `llm-cli-chatbot`. 
 
 ```powershell
 git add .
-git commit -m "Update chatbot project"
+git commit -m "Complete LLM CLI Chatbot"
 git push
 ```
